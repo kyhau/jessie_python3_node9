@@ -1,4 +1,4 @@
-FROM python:3.6.4
+FROM python:3.10.13
 MAINTAINER Kay Hau <virtualda@gmail.com>
 # Based on buildpack-deps:jessie
 
